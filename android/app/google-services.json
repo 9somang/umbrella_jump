@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019134842060",
+    "project_id": "umbrella-jump",
+    "storage_bucket": "umbrella-jump.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019134842060:android:2d92638f4f60790e9d1e69",
+        "android_client_info": {
+          "package_name": "com.example.doodle_dash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019134842060-ucl0qh69bo7gg5oa5rrh6gcjaobn67mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB68CpJyKhFqhXdhmO4AWzdZ9ODIyqcdGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019134842060-ucl0qh69bo7gg5oa5rrh6gcjaobn67mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
